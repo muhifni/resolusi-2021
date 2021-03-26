@@ -4,3 +4,4 @@ RENCANA BELAJAR
 - Memperdalam JS
 - Belajar JS Framework
 - Belajar React JS
+- Belajar membuat website yang memilki performance cepat
