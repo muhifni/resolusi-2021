@@ -1,0 +1,6 @@
+RENCANA BELAJAR
+
+- Memperdalam Boostrap CSS Framework
+- Memperdalam JS
+- Belajar JS Framework
+- Belajar React JS
