@@ -3,5 +3,6 @@ RENCANA BELAJAR
 - Memperdalam Boostrap CSS Framework
 - Memperdalam JS
 - Belajar JS Framework
-- Belajar React JS
+  a. React JS
+  
 - Belajar membuat website yang memilki performance cepat
