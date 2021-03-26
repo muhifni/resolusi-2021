@@ -4,5 +4,5 @@ RENCANA BELAJAR
 - Memperdalam JS
 - Belajar JS Framework
   a. React JS
-  
+  b. Vue JS
 - Belajar membuat website yang memilki performance cepat
